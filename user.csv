@@ -1,0 +1,13 @@
+name,id,email,password,isValidated,userType
+John Doe,0,john@email.com,1234,t,supermanager
+Jane Doe,1,jane@email.com,janepassword,f,nonfaculty
+Matthew,2,matthew@email.com,matthewpassword,f,faculty
+Craig,3,craig@email.com,craigpassword,t,visitor
+Evil Man,4,evil,1234,f,faculty
+Andrew Ho,5,andrew@email.com,1234,t,student
+"",6,UIM5@email.com,0Wifba,t,manager
+Builder Bob,7,bob@email.com,1234,f,nonfaculty
+"",8,iUWj@email.com,cCv3DQ,t,manager
+Santa Claus,9,santa@email.com,1234,t,visitor
+"",10,nyna@email.com,gZhZse,t,manager
+A B,11,"a@gmail,com",abc,f,student
