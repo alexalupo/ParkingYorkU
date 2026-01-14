@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: york.eecs.ErrorTest0
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 10, Skipped: 0, Time elapsed: 0.087 s <<< FAILURE! - in york.eecs.ErrorTest0
+york.eecs.ErrorTest0.test01  Time elapsed: 0.038 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test01(ErrorTest0.java:29)
+
+york.eecs.ErrorTest0.test02  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test02(ErrorTest0.java:40)
+
+york.eecs.ErrorTest0.test03  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test03(ErrorTest0.java:51)
+
+york.eecs.ErrorTest0.test04  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test04(ErrorTest0.java:68)
+
+york.eecs.ErrorTest0.test05  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test05(ErrorTest0.java:81)
+
+york.eecs.ErrorTest0.test06  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test06(ErrorTest0.java:92)
+
+york.eecs.ErrorTest0.test07  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test07(ErrorTest0.java:105)
+
+york.eecs.ErrorTest0.test08  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test08(ErrorTest0.java:119)
+
+york.eecs.ErrorTest0.test09  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test09(ErrorTest0.java:131)
+
+york.eecs.ErrorTest0.test10  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "observer.ParkingLot.getId()" because "this.parkingLot" is null
+	at york.eecs.ErrorTest0.test10(ErrorTest0.java:144)
+
